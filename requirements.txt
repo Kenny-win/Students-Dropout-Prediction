@@ -1,8 +1,9 @@
-joblib
-numpy
-pandas
 streamlit
-matplotlib
+pandas
+numpy
 scikit-learn
+joblib
+matplotlib
 seaborn
+altair==4.2.2
 

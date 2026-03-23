@@ -61,9 +61,12 @@ Secara keseluruhan, dashboard ini menunjukkan bahwa **risiko dropout mahasiswa d
 Link dashboard : [klik di sini](https://public.tableau.com/app/profile/kenny.winata/viz/JayaJayaInstitutDashboard/Dashboard1?publish=yes)
 
 ## Menjalankan Sistem Machine Learning
-Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
+Install terlebih dahulu streamlit dengan pip, kemudian jalankan streamlit dengan run app.py
+link streamlit : [klik sini](https://students-dropout-prediction-jaya-institut.streamlit.app/)
 
 ```
+    pip install streamlit
+    streamlit run app.py
 
 ```
 
